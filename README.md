@@ -2,39 +2,77 @@
 
 
 ## About
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+
+The airline industry relies heavily on customer satisfaction, which directly affects business success and profitability. Airlines face challenges in predicting customer satisfaction due to diverse passenger demographics and varying service quality. The growth of data from booking systems, social media, and surveys offers opportunities to better understand passenger preferences. Machine learning enables the analysis of large datasets to identify patterns and insights for informed decision-making. Predictive analytics through machine learning can forecast customer satisfaction based on historical data and real-time inputs. Machine learning can optimize flight schedules, improve customer service, and personalize the travel experience. Successful implementations of machine learning in sectors like hospitality and retail demonstrate its potential in the airline industry. The project aims to develop a machine learning model to accurately predict airline customer satisfaction, enhancing service delivery and passenger experiences.
+
 
 ## Features
-Implements advance neural network method.
-A framework based application for deployment purpose.
-High scalability.
-Less time complexity.
-A specific scope of Chatbot response model, using json data format.
+
+1. Personalized Customer Experience
+2. Improved Model Performance
+3. Competitive Advantage
+4. Improved Customer Retention and Loyalty
+5. We build user friendly web applications
+6. Accurate Predictions	
+
+
 ## Requirements
-Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-Version Control: Implementation of Git for collaborative development and effective code management.
-IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+
+1. Software Requirements:
+Operating System: The system must run on Windows 10 or later. This ensures compatibility with the required software tools and libraries used for developing the sign language detection system.
+
+Tool: Anaconda is recommended as the primary tool for managing the development environment. It simplifies package management and deployment of Python projects. The Anaconda distribution includes Jupyter Notebook, which provides an interactive interface for writing and executing Python code, ideal for prototyping and visualizing results in real time.
+
+2. Hardware Requirements:
+Processor: An Intel i3 processor or later is necessary to ensure that the system can handle the computational demands of deep learning tasks and data processing effectively. This requirement ensures adequate processing power for executing the algorithms efficiently.
+
+Hard Disk: A minimum of 10 GB of free hard disk space is required. This space will accommodate the operating system, Anaconda, libraries (like TensorFlow, OpenCV, etc.), and datasets needed for training the sign language detection model.
+
+RAM: At least 4 GB of RAM is necessary for smooth operation of the development environment and to run various processes without significant slowdowns. More RAM may be beneficial for handling larger datasets and models, improving performance during training and inference stages.
+
+
 ## System Architecture
-Screenshot 2023-11-25 133637
+
+![Picture1](https://github.com/user-attachments/assets/4edc4138-94ae-47d4-8b07-d2e1fde136f3)
+
 
 ## Output
-### Output1 - Name of the output
-Screenshot 2023-11-25 134037
 
-### Output2 - Name of the output
-Screenshot 2023-11-25 134253
+### Landing Page
 
-Detection Accuracy: 96.7% Note: These metrics can be customized based on your actual performance evaluations.
+![Picture2](https://github.com/user-attachments/assets/3a0d3a84-8983-4150-a815-4cee0a24b34e)
+
+### Register Page
+
+![Picture3](https://github.com/user-attachments/assets/b905735f-594d-42b6-8fe4-203184099d4e)
+
+### Login Page
+
+![Picture4](https://github.com/user-attachments/assets/5ac8e37e-ea97-4719-9fff-666e2fd5ab31)
+
+### Home Page
+
+![Picture5](https://github.com/user-attachments/assets/3d395b3e-3f31-4a04-9a03-9bba6dcd4729)
+
+### Model Page
+
+![Picture6](https://github.com/user-attachments/assets/f5bb2589-6968-4f91-91b9-76c625781e0d)
+
+### Output Page
+
+![Picture7](https://github.com/user-attachments/assets/d2429a69-5fe0-4292-acc4-d38abcded8ad)
 
 ## Results and Impact
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Harnessing machine learning for next-level airline satisfaction prediction holds great promise for transforming the way airlines understand and enhance customer experiences. By leveraging advanced algorithms and data analytics, airlines can gain deeper insights into customer sentiments, preferences, and behaviors.
+The application of machine learning in this context can lead to significantly improved predictive accuracy, enabling airlines to anticipate customer needs and proactively address issues. 
+This not only enhances operational efficiency but also fosters a more personalized approach to customer engagement, ultimately increasing loyalty and satisfaction.
+
 
 ## Articles published / References
-N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+
+[1] Reichheld, Frederick F. ”The one number you need to grow.” Harvard business review 81.12 (2003): 46-55.
+[2] Keiningham, Timothy L., et al. ”A longitudinal examination of net promoter and firm revenue growth.” Journal of Marketing 71.3 (2007): 39-51.
+[3] Oliver, Richard L. ”Cognitive, affective, and attribute bases of the satisfaction response.” Journal of consumer research 20.3 (1993): 418- 430.
+[4] Jang, Sungha, Ashutosh Prasad, and Brian T. Ratchford. ”How consumers use product reviews in the purchase decision process.” Marketing letters 23.3 (2012): 825-838.
+[5] Mudambi, Susan M., and David Schuff. ”What makes a helpful review? A study of customer reviews on Amazon. com.” MIS quarterly 34.1 (2010): 185-200.
