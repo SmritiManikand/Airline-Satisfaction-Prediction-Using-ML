@@ -18,12 +18,14 @@ The airline industry relies heavily on customer satisfaction, which directly aff
 
 ## Requirements
 
-1. Software Requirements:
+### 1. Software Requirements:
+
 Operating System: The system must run on Windows 10 or later. This ensures compatibility with the required software tools and libraries used for developing the sign language detection system.
 
 Tool: Anaconda is recommended as the primary tool for managing the development environment. It simplifies package management and deployment of Python projects. The Anaconda distribution includes Jupyter Notebook, which provides an interactive interface for writing and executing Python code, ideal for prototyping and visualizing results in real time.
 
-2. Hardware Requirements:
+### 2. Hardware Requirements:
+
 Processor: An Intel i3 processor or later is necessary to ensure that the system can handle the computational demands of deep learning tasks and data processing effectively. This requirement ensures adequate processing power for executing the algorithms efficiently.
 
 Hard Disk: A minimum of 10 GB of free hard disk space is required. This space will accommodate the operating system, Anaconda, libraries (like TensorFlow, OpenCV, etc.), and datasets needed for training the sign language detection model.
@@ -71,8 +73,10 @@ This not only enhances operational efficiency but also fosters a more personaliz
 
 ## Articles published / References
 
-[1] Reichheld, Frederick F. ”The one number you need to grow.” Harvard business review 81.12 (2003): 46-55.
-[2] Keiningham, Timothy L., et al. ”A longitudinal examination of net promoter and firm revenue growth.” Journal of Marketing 71.3 (2007): 39-51.
-[3] Oliver, Richard L. ”Cognitive, affective, and attribute bases of the satisfaction response.” Journal of consumer research 20.3 (1993): 418- 430.
-[4] Jang, Sungha, Ashutosh Prasad, and Brian T. Ratchford. ”How consumers use product reviews in the purchase decision process.” Marketing letters 23.3 (2012): 825-838.
-[5] Mudambi, Susan M., and David Schuff. ”What makes a helpful review? A study of customer reviews on Amazon. com.” MIS quarterly 34.1 (2010): 185-200.
+1. Reichheld, Frederick F. ”The one number you need to grow.” Harvard business review 81.12 (2003): 46-55.
+
+2. Keiningham, Timothy L., et al. ”A longitudinal examination of net promoter and firm revenue growth.” Journal of Marketing 71.3 (2007): 39-51.
+
+3. Oliver, Richard L. ”Cognitive, affective, and attribute bases of the satisfaction response.” Journal of consumer research 20.3 (1993): 418- 430.
+
+   
